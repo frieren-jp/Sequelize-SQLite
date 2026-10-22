@@ -1,0 +1,15 @@
+{
+  "name": "sqlit",
+  "version": "1.0.0",
+  "description": "Практическая работа 1.1: модель пользователей на Sequelize и SQLite",
+  "license": "ISC",
+  "type": "commonjs",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "sequelize": "^6.37.7",
+    "sqlite3": "^5.1.7"
+  }
+}
